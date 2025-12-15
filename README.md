@@ -87,5 +87,3 @@ Informasi Tambahan
 ```bash
 gunicorn -w 4 -b 0.0.0.0:5000 app:app
 ```
-
-Jika Anda ingin saya menambahkan contoh unit test atau Dockerfile, beri tahu saya.
