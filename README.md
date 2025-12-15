@@ -1,7 +1,3 @@
-# Nurtur-API-Endpoint-Prediction
-
-README
-
 Deskripsi Singkat
 -----------------
 API Flask sederhana untuk melakukan prediksi emosi dari sebuah gambar menggunakan model Keras yang sudah dilatih (ResNet50V2). Aplikasi ini memuat model saat startup sehingga setiap request hanya melakukan preprocessing dan inferensi.
