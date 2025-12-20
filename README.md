@@ -74,6 +74,6 @@ curl -X POST -F "file=@path/to/image.jpg" http://localhost:5000/predict
 ```
 
 ## Catatan Tambahan
-- Pastikan TensorFlow dan dependensi lainnya terinstal.
+- Pastikan TensorFlow dan dependensi lainnya sudah terinstal.
 - Model default: `ResNet50V2_Model.h5` di root atau sesuai `MODEL_PATH`.
 - Untuk kompatibilitas, endpoint menerima kunci `file` atau `image`.
